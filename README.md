@@ -47,7 +47,7 @@ crypto-app/
 
 
 ---
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/49fa07b8-3ef4-4c22-8919-1265edb84082" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/49fa07b8-3ef4-4c22-8919-1265edb84082" />
 
 ## 🔑 API Used  
 
